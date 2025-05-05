@@ -15,8 +15,8 @@ function App(){
         id: 1,
         text: 'Have some coffee and read the news',
         project: 'Morning routine',
-        dateAdded: 'Monday, 2025 May 05',
-        scheduledFor: 'Monday, 2025 May 05',
+        dateAdded: '2025-05-05',
+        scheduledFor: '2025-05-05',
         dateCompleted: null,
         isCompleted: false,
         notes: 'Accompany coffee with a healthy breakfast'
@@ -25,8 +25,8 @@ function App(){
         id: 2,
         text: 'Complete this part of the important work project',
         project: 'Important work project',
-        dateAdded: 'Monday, 2025 May 05',
-        scheduledFor: 'Monday, 2025 May 05',
+        dateAdded: '2025-05-05',
+        scheduledFor: '2025-05-05',
         dateCompleted: null,
         isCompleted: false,
         notes: 'Keep these dependencies in mind while completing this part: dependency 1 and dependency 2'
@@ -35,8 +35,8 @@ function App(){
         id: 3,
         text: 'Exercise',
         project: 'Healthy body and mind',
-        dateAdded: 'Monday, 2025 May 05',
-        scheduledFor: 'Monday, 2025 May 05',
+        dateAdded: '2025-05-05',
+        scheduledFor: '2025-05-05',
         dateCompleted: null,
         isCompleted: false,
         notes: 'Exercise for today is a boxing class'
