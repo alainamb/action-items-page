@@ -236,7 +236,7 @@ function App(){
   return (
     <div className="container">
       <div className="header-box">
-        <h1>Action Item List</h1>
+        <h1>Action Items List</h1>
         {/* Import/Export Controls */}
         <div className="data-controls">
           <div className="export-buttons">
